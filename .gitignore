@@ -1,6 +1,1 @@
-echo "# Implementation-of-System-Malloc-free" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/rizhkh/Implementation-of-System-Malloc-free.git
-git push -u origin maste
+
